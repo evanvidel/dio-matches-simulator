@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "354534128395",
+    "project_id": "simulator-dio-sortheca",
+    "storage_bucket": "simulator-dio-sortheca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354534128395:android:400fda4c6ec71ad023800e",
+        "android_client_info": {
+          "package_name": "com.franco.simulator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "354534128395-7shlsmltq2gluae20t8g3r50vdoh1c0f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ48JuEl9rCaGc8pqsairvLFUkwJdY4Rk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "354534128395-7shlsmltq2gluae20t8g3r50vdoh1c0f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
